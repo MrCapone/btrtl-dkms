@@ -1,5 +1,5 @@
 # btrtl-dkms
-bluetooth driver module for linux kernel older then 4.18
+bluetooth driver module for linux kernel older than 4.18
 
 # Build and install with DKMS
 
